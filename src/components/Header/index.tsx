@@ -1,5 +1,5 @@
 import { HeaderContainer, HeaderContent, NewTransactionButton } from "./styles";
-import logo from '../../assets/logo-ignite.svg';
+import logo from '../../assets/logo.svg';
 
 export function Header() {
   return (
